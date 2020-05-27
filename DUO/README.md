@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DUOAPIDocs" title="#delicinhas" src="../.github/GG/dalegg-logo.png" width="200px" />
+    <img alt="DUOAPIDocs" title="#delicinhas" src="../.github/DUO/duozada-logo.png" width="200px" />
 </h1>
 
 <h4 align="center">
