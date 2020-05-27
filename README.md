@@ -6,43 +6,61 @@
   🀄️ Organization Docs 👨🏻‍🚀
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Dale-gg/docs">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Dale-gg/docs?style=for-the-badge&logo=appveyor">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Dale-gg/docs">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Dale-gg/docs?style=for-the-badge&logo=appveyor">
   
   <a href="https://github.com/Dale-gg/docs/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Dale-gg/docs">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Dale-gg/docs?style=for-the-badge&logo=appveyor">
   </a>
 
   <a href="https://github.com/Dale-gg/docs/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Dale-gg/docs">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Dale-gg/docs?style=for-the-badge&logo=appveyor">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge&logo=appveyor">
 </p>
 
 <p align="center">
-  <a href="#-projects">🖥 Projects</a>
+  <a href="#projects">🖥 Projects</a>
 </p>
 
 <br>
 
-# 🖥 Projects
+<h1 id="projects" align="center">
+    🖥 Projects
+</h1>
 
-In this repository we concentrate all the documentation of all our **domains/services**, each one of them has a specific **prefix**.
+<p align="center">
+    In this repository we concentrate all the documentation of all our <b>domains/services</b>, each one of them has a specific <b>prefix</b>.
+</p>
 
-### DUO - Duozada
+<h2 align="center">
+    DUO - Duozada
 
-Access the docs of [Duozada](htttps://github.com/Dale-gg/docs/DUO)
+  <p align="center">
+    <a href="https://github.com/Dale-gg/docs/DUO">Access the docs of Duozada</a>
+  </p>
+</h2>
 
-### GG - Dale.gg
+<h2 align="center">
+    GG - Dale.gg
 
-Access the docs of [Dale.gg](htttps://github.com/Dale-gg/docs/GG)
+  <p align="center">
+    <a href="https://github.com/Dale-gg/docs/DUOGG-MIG">Access the docs of Dale.gg</a>
+  </p>
+</h2>
 
-### DUOGG-MIG - Migrations of Duozada and Dale.gg
+<h2 align="center">
+    DUOGG-MIG - Migrations of Duozada and Dale.gg
 
-Access the docs of [Migrations](htttps://github.com/Dale-gg/docs/DUOGG-MIG)
+  <p align="center">
+    <a href="https://github.com/Dale-gg/docs/DUOGG-MIG">Access the docs of Migrations</a>
+  </p>
+</h2>
 
 ---
 
-Made with 🖤 by [jlenon7](https://github.com/jlenon7) & [Adryell](https://github.com/adryell):wave:
+<p align="center">
+    Made with 🖤 by <a href="https://github.com/jlenon7">jlenon7</a> & <a href="https://github.com/adryell">Adryell</a> 👋
+</p>
