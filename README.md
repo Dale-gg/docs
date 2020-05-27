@@ -35,29 +35,29 @@
     In this repository we concentrate all the documentation of all our <b>domains/services</b>, each one of them has a specific <b>prefix</b>.
 </p>
 
-<h2 align="center">
+<h3 align="center">
     DUO - Duozada
 
   <p align="center">
     <a href="https://github.com/Dale-gg/docs/DUO">Access the docs of Duozada</a>
   </p>
-</h2>
+</h3>
 
-<h2 align="center">
+<h3 align="center">
     GG - Dale.gg
 
   <p align="center">
     <a href="https://github.com/Dale-gg/docs/DUOGG-MIG">Access the docs of Dale.gg</a>
   </p>
-</h2>
+</h3>
 
-<h2 align="center">
+<h3 align="center">
     DUOGG-MIG - Migrations of Duozada and Dale.gg
 
   <p align="center">
     <a href="https://github.com/Dale-gg/docs/DUOGG-MIG">Access the docs of Migrations</a>
   </p>
-</h2>
+</h3>
 
 ---
 
