@@ -31,15 +31,15 @@
 
 In this repository we concentrate all the documentation of all our **domains/services**, each one of them has a specific **prefix**.
 
-## DUO - Duozada
+### DUO - Duozada
 
 Access the docs of [Duozada](htttps://github.com/Dale-gg/docs/DUO)
 
-## GG - Dale.gg
+### GG - Dale.gg
 
 Access the docs of [Dale.gg](htttps://github.com/Dale-gg/docs/GG)
 
-## DUOGG-MIG - Migrations of Duozada and Dale.gg
+### DUOGG-MIG - Migrations of Duozada and Dale.gg
 
 Access the docs of [Migrations](htttps://github.com/Dale-gg/docs/DUOGG-MIG)
 
