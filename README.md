@@ -36,18 +36,18 @@
 </p>
 
 <h3 align="center">
-    DUO - Duozada
-
-  <p align="center">
-    <a href="https://github.com/Dale-gg/docs/DUO">Access the docs of Duozada</a>
-  </p>
-</h3>
-
-<h3 align="center">
     GG - Dale.gg
 
   <p align="center">
     <a href="https://github.com/Dale-gg/docs/DUOGG-MIG">Access the docs of Dale.gg</a>
+  </p>
+</h3>
+
+<h3 align="center">
+    DUO - Duozada
+
+  <p align="center">
+    <a href="https://github.com/Dale-gg/docs/DUO">Access the docs of Duozada</a>
   </p>
 </h3>
 
