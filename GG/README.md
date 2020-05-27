@@ -6,19 +6,19 @@
   🎮 GG API Docs 📕
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Dale-gg/GG-Dale.ggAPI">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Dale-gg/GG-Dale.ggAPI?style=for-the-badge&logo=appveyor">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Dale-gg/GG-Dale.ggAPI">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Dale-gg/GG-Dale.ggAPI?style=for-the-badge&logo=appveyor">
   
   <a href="https://github.com/Dale-gg/GG-Dale.ggAPI/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Dale-gg/GG-Dale.ggAPI">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Dale-gg/GG-Dale.ggAPI?style=for-the-badge&logo=appveyor">
   </a>
 
   <a href="https://github.com/Dale-gg/GG-Dale.ggAPI/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/Dale-gg/GG-Dale.ggAPI">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Dale-gg/GG-Dale.ggAPI?style=for-the-badge&logo=appveyor">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge&logo=appveyor">
 </p>
 
 <p align="center">
