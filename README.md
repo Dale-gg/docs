@@ -39,7 +39,7 @@
     GG - Dale.gg
 
   <p align="center">
-    <a href="https://github.com/Dale-gg/docs/DUOGG-MIG">Access the docs of Dale.gg</a>
+    <a href="https://github.com/Dale-gg/docs/tree/master/GG">Access the docs of Dale.gg</a>
   </p>
 </h3>
 
@@ -47,7 +47,7 @@
     DUO - Duozada
 
   <p align="center">
-    <a href="https://github.com/Dale-gg/docs/DUO">Access the docs of Duozada</a>
+    <a href="https://github.com/Dale-gg/docs/tree/master/DUO">Access the docs of Duozada</a>
   </p>
 </h3>
 
@@ -55,7 +55,7 @@
     DUOGG-MIG - Migrations of Duozada and Dale.gg
 
   <p align="center">
-    <a href="https://github.com/Dale-gg/docs/DUOGG-MIG">Access the docs of Migrations</a>
+    <a href="https://github.com/Dale-gg/docs/tree/master/DUOGG-MIG">Access the docs of Migrations</a>
   </p>
 </h3>
 
