@@ -94,7 +94,8 @@
 </b>
 
 <h1 align="center">
-    <img alt="DUOAPIDocs" title="#delicinhas" src="../.github/GG/usecase.png" width="200px" />
+    <img alt="DUOAPIDocs" title="#delicinhas" src="../.github/GG/Usecases/mantain-data-usecase.png" width="800px" />
+    <img alt="DUOAPIDocs" title="#delicinhas" src="../.github/GG/Usecases/search-summoner-usecase.png" width="800px" />
 </h1>
 
 <b>
@@ -104,13 +105,13 @@
 </b>
 
 <h1 align="center">
-    <img alt="DUOAPIDocs" title="#delicinhas" src="../.github/GG/classdiagram.png" width="200px" />
+    <img alt="DUOAPIDocs" title="#delicinhas" src="../.github/GG/classdiagram.png" width="800px" />
 </h1>
 
 ## 🎲 MER
 
 <h1 align="center">
-    <img alt="DUOAPIDocs" title="#delicinhas" src="../.github/GG/mer-diagram.png" width="200px" />
+    <img alt="DUOAPIDocs" title="#delicinhas" src="../.github/mer-diagram.png" width="800px" />
 </h1>
 
 ---
