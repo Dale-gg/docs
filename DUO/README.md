@@ -94,8 +94,9 @@
 </b>
 
 <h1 align="center">
-    <img alt="DUOAPIDocs" title="#delicinhas" src="../.github/GG/Usecases/mantain-data-usecase.png" width="800px" />
-    <img alt="DUOAPIDocs" title="#delicinhas" src="../.github/GG/Usecases/search-summoner-usecase.png" width="800px" />
+    <img alt="DUOAPIDocs" title="#delicinhas" src="../.github/DUO/Usecases/mantain-data-usecase.png" width="800px" />
+    <img alt="DUOAPIDocs" title="#delicinhas" src="../.github/DUO/Usecases/chat-usecase.png" width="800px" />
+    <img alt="DUOAPIDocs" title="#delicinhas" src="../.github/DUO/Usecases/match-usecase.png" width="800px" />
 </h1>
 
 <b>
@@ -105,7 +106,7 @@
 </b>
 
 <h1 align="center">
-    <img alt="DUOAPIDocs" title="#delicinhas" src="../.github/GG/classdiagram.png" width="800px" />
+    <img alt="DUOAPIDocs" title="#delicinhas" src="../.github/DUO/classdiagram.png" width="800px" />
 </h1>
 
 ## 🎲 MER
