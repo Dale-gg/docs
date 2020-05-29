@@ -92,7 +92,7 @@
 ## 🎲 MER
 
 <h1 align="center">
-    <img alt="GGAPIDocs" title="#delicinhas" src="../.github/mer-diagram.png" width="200px" />
+    <img alt="GGAPIDocs" title="#delicinhas" src="../.github/mer-diagram.png" width="800px" />
 </h1>
 
 ---
