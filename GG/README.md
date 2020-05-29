@@ -32,7 +32,7 @@
 
 ## 📰 Escopo e Metodologias
 
-- Confira todo o escopo e metodologias usadas no nosso projeto lá na nossa [wiki](https://github.com/Dale-gg/GG-Dale.ggAPI/wiki) page. 🤓
+- Confira todo o escopo e metodologias usadas no nosso projeto lá na nossa [wiki](https://github.com/Dale-gg/docs/wiki) page. 🤓
 
 ## 🖋 Requisitos e Regras
 
