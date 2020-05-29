@@ -48,13 +48,12 @@
 | RF 6                  | O sistema deve permitir a visualização do histórico de partidas assim como todas as informações de cada uma.                                                                             |
 | RF 7                  | O sistema deve permitir a visualização do histórico de um jogador em relação as partidas jogadas: total de partidas, total vitórias, total derrotas, etc.                                |
 | RF 8                  | O sistema deve permitir a visualização do histórico de um jogador em relação aos campeões jogados: campeão mais jogado, campeão menos jogado, campeão com melhor índice de vitória, etc. |
-| RF 9                  | O sistema deve permitir que um usuário acesse o módulo "Duozada" para encontrar outros usuários.                                                                                         |
-| RF 10                 | O sistema deve permitir que um usuário cadastre suas melhores Jogadas em seu perfil .                                                                                                    |
-| RF 11                 | O sistema deve permitir que um usuário possa encontrar e detalhar o perfil de outros jogadores.                                                                                          |
-| RF 12                 | O sistema deve permitir que um usuário possa dar um Like no perfil de outros jogadores.                                                                                                  |
-| RF 13                 | O sistema deve permitir que aconteça um match entre dois usuários.                                                                                                                       |
-| RF 14                 | O sistema deve permitir que aconteça um match perfeito entre dois usuários.                                                                                                              |
-| RF 15                 | O sistema deve permitir que os usuários conversem via Chat após ocorrer um match.                                                                                                        |
+| RF 9                 | O sistema deve permitir que um usuário cadastre suas melhores Jogadas em seu perfil .                                                                                                    |
+| RF 10                 | O sistema deve permitir que um usuário possa encontrar e detalhar o perfil de outros jogadores.                                                                                          |
+| RF 11                 | O sistema deve permitir que um usuário possa dar um Like no perfil de outros usuários.                                                                                                  |
+| RF 12                 | O sistema deve permitir que um usuário possa dar um Dislike no perfil de outros usuários.                                                                                                  |
+| RF 13                 | O sistema deve permitir que aconteça um match (Duozada) entre dois usuários.                                                                                                                       |
+| RF 14                 | O sistema deve permitir que os usuários conversem via Chat após ocorrer um match (Duozada).                                                                                                        |
 
 #### Regras de negócio
 
@@ -70,22 +69,21 @@
 | RN 8              | O sistema deve fornecer para o usuário a opção de cadastrar suas melhores Jogadas quando acessar o Duozada, ou pular a opção.                                     |
 | RN 9              | O usuário podera listar e detalhar o perfil de outros jogadores na plataforma, assim como suas Jogadas.                                                           |
 | RN 10             | O usuário podera dar um Like no perfil de outros jogadores, caso o outro jogador tambem de um like no perfil do mesmo, ira ocorrer um Match.                      |
-| RN 11             | Quando ocorrer um Match entre usuários, o sistema devera validar se, se trata de um Match comum (RN 10) ou um Match Perfeito (RN 12).                             |
-| RN 12             | Após um Match, o sistema deverá validar caso haja a opção de ocorrer um Match perfeito, baseando-se pelas rotas de cada jogador e campeões jogados.               |
-| RN 13             | Apenas após um Match, os usuários teram a opção de conversarem via Chat dentro da aplicação.                                                                      |
-| RN 14             | Um User que estiver com seu status setado como false, não poderá acessar a aplicação                                                                              |
+| RN 11             | Apenas após um Match, os usuários teram a opção de conversarem via Chat dentro da aplicação.                                                                      |
+| RN 12             | Um User que estiver com seu status setado como false, não poderá acessar a aplicação                                                                              |
 
 #### Requisitos não funcionais tecnologicos
 
 | Requisitos funcionais não tecnologicos | Descrição                                                                                                         |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| RNFT 1                                 | Um script será criado para realizar um pré cadastro dos Campeões na aplicação .                                   |
+| RNFT 1                                 | Um script será criado para realizar um pré cadastro dos Campeões e Lanes na aplicação.                             |
 | RNFT 2                                 | O sistema deve fazer uso da API da Riot Games para buscar as informações dos Invocadores.                         |
 | RNFT 3                                 | O banco de dados a ser utilizado terá o padrão objeto-relacional.                                                 |
 | RNFT 4                                 | A aplicação irá usar o architectural pattern MVC.                                                                 |
-| RNFT 5                                 | O sistema deve armazenar as informações vindas da API da Riot dentro do banco de dados local (PostgreSQL).        |
-| RNFT 6                                 | Like e Dislike serão apenas funcionalidades usando o método Store para armazenar essas informações em um Usuário. |
-| RNFT 7                                 | O chat de texto pós match será implementado usando socket.io.                                                     |
+| RNFT 5                               | O chat de texto pós match será implementado usando socket.io.                                                     |
+| RNFT 6                              | O sistema vai usar a lib ZedJS para fazer request a API da Riot Games |
+| RNFT 7                             | O sistema vai usar a lib dedSec para padronizar respostas para o client |
+| RNFT 8                           | O sistema vai usar o pattern Observable para lidar com o cadastro de Summoners
 
 ## 📊 Diagramas
 
