@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DUOAPIDocs" title="#delicinhas" src="../.github/DUO/duozada-logo.png" width="200px" />
+    <img alt="DUOAPIDocs" title="#delicinhas" src="../../.github/DUO\ GG/duozada-logo.png" width="200px" />
 </h1>
 
 <h4 align="center">
@@ -94,9 +94,7 @@
 </b>
 
 <h1 align="center">
-    <img alt="DUOAPIDocs" title="#delicinhas" src="../.github/DUO/Usecases/mantain-data-usecase.png" width="800px" />
-    <img alt="DUOAPIDocs" title="#delicinhas" src="../.github/DUO/Usecases/chat-usecase.png" width="800px" />
-    <img alt="DUOAPIDocs" title="#delicinhas" src="../.github/DUO/Usecases/match-usecase.png" width="800px" />
+    <img alt="DUOAPIDocs" title="#delicinhas" src="../../.github/DUO\ GG/../DUO%20GG/General\ UseCase\ Diagram.png" width="800px" />
 </h1>
 
 <b>
@@ -106,13 +104,23 @@
 </b>
 
 <h1 align="center">
-    <img alt="DUOAPIDocs" title="#delicinhas" src="../.github/DUO/classdiagram.png" width="800px" />
+    <img alt="DUOAPIDocs" title="#delicinhas" src="../../.github/DUO\ GG/../DUO%20GG/General\ Class\ Diagram.png" width="800px" />
+</h1>
+
+<b>
+  <h3 align="center">
+      Sequence
+  </h3>
+</b>
+
+<h1 align="center">
+    <img alt="DUOAPIDocs" title="#delicinhas" src="../../.github/DUO\ GG/../DUO%20GG/General\ Sequence\ Diagram.png" width="800px" />
 </h1>
 
 ## 🎲 MER
 
 <h1 align="center">
-    <img alt="DUOAPIDocs" title="#delicinhas" src="../.github/mer-diagram.png" width="800px" />
+    <img alt="DUOAPIDocs" title="#delicinhas" src="../../.github/MER\ Diagram.png" width="800px" />
 </h1>
 
 ---

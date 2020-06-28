@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="GGAPIDocs" title="#delicinhas" src="../.github/GG/dalegg-logo.png" width="200px" />
+    <img alt="GGAPIDocs" title="#delicinhas" src="../../.github/DUO\ GG/dalegg-logo.png" width="200px" />
 </h1>
 
 <h4 align="center">
@@ -75,8 +75,7 @@
 </b>
 
 <h1 align="center">
-    <img alt="GGAPIDocs" title="#delicinhas" src="../.github/GG/Usecases/mantain-data-usecase.png" width="800px" />
-    <img alt="GGAPIDocs" title="#delicinhas" src="../.github/GG/Usecases/search-summoner-usecase.png" width="800px" />
+    <img alt="DUOAPIDocs" title="#delicinhas" src="../../.github/DUO\ GG/../DUO%20GG/General\ UseCase\ Diagram.png" width="800px" />
 </h1>
 
 <b>
@@ -86,13 +85,23 @@
 </b>
 
 <h1 align="center">
-    <img alt="GGAPIDocs" title="#delicinhas" src="../.github/GG/classdiagram.png" width="800px" />
+    <img alt="DUOAPIDocs" title="#delicinhas" src="../../.github/DUO\ GG/../DUO%20GG/General\ Class\ Diagram.png" width="800px" />
+</h1>
+
+<b>
+  <h3 align="center">
+      Sequence
+  </h3>
+</b>
+
+<h1 align="center">
+    <img alt="DUOAPIDocs" title="#delicinhas" src="../../.github/DUO\ GG/../DUO%20GG/General\ Sequence\ Diagram.png" width="800px" />
 </h1>
 
 ## 🎲 MER
 
 <h1 align="center">
-    <img alt="GGAPIDocs" title="#delicinhas" src="../.github/mer-diagram.png" width="800px" />
+    <img alt="DUOAPIDocs" title="#delicinhas" src="../../.github/MER\ Diagram.png" width="800px" />
 </h1>
 
 ---
