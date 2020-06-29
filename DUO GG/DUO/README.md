@@ -38,22 +38,19 @@
 
 #### Requisitos funcionais
 
-| Requisitos funcionais | Descrição                                                                                                                                                                                |
-| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| RF 1                  | O sistema deve permitir o cadastro de usuários.                                                                                                                                          |
-| RF 2                  | O sistema deve permitir que um usuário já cadastrado faça o login na plataforma.                                                                                                         |
-| RF 3                  | O sistema deve permitir que um usuário recupere sua senha.                                                                                                                               |
-| RF 4                  | O sistema deve permitir a visualização e a alteração do perfil.                                                                                                                          |
-| RF 5                  | O sistema deve permitir que um usuário pesquise por Invocadores dentro da aplicação.                                                                                                     |
-| RF 6                  | O sistema deve permitir a visualização do histórico de partidas assim como todas as informações de cada uma.                                                                             |
-| RF 7                  | O sistema deve permitir a visualização do histórico de um jogador em relação as partidas jogadas: total de partidas, total vitórias, total derrotas, etc.                                |
-| RF 8                  | O sistema deve permitir a visualização do histórico de um jogador em relação aos campeões jogados: campeão mais jogado, campeão menos jogado, campeão com melhor índice de vitória, etc. |
-| RF 9                 | O sistema deve permitir que um usuário cadastre suas melhores Jogadas em seu perfil .                                                                                                    |
-| RF 10                 | O sistema deve permitir que um usuário possa encontrar e detalhar o perfil de outros jogadores.                                                                                          |
-| RF 11                 | O sistema deve permitir que um usuário possa dar um Like no perfil de outros usuários.                                                                                                  |
-| RF 12                 | O sistema deve permitir que um usuário possa dar um Dislike no perfil de outros usuários.                                                                                                  |
-| RF 13                 | O sistema deve permitir que aconteça um match (Duozada) entre dois usuários.                                                                                                                       |
-| RF 14                 | O sistema deve permitir que os usuários conversem via Chat após ocorrer um match (Duozada).                                                                                                        |
+| Requisitos funcionais | Atores  | Descrição                                                                                                                                                                                |
+| --------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| RF 1                  | Usuário | O sistema deve permitir que um usuário mantenha o seu perfil.                                                                                                                            |
+| RF 2                  | Usuário | O sistema deve permitir que um usuário mantido faça o login na plataforma.                                                                                                               |
+| RF 3                  | Usuário | O sistema deve permitir que um usuário recupere sua senha.                                                                                                                               |
+| RF 4                  | Usuário | O sistema deve permitir que um usuário possa fazer manutenções na sua conta.                                                                                                             |
+| RF 5                  | Usuário | O sistema deve permitir que um usuário mantenha suas melhores jogadas em seu perfil .                                                                                                    |
+| RF 6                  | Usuário | O sistema deve permitir que um usuário possa encontrar e detalhar o perfil de outros usuários.                                                                                           |
+| RF 7                  | Usuário | O sistema deve permitir que um usuário possa manter um Like no perfil de outros usuários.                                                                                                |
+| RF 8                  | Usuário | O sistema deve permitir que um usuário possa manter um Dislike no perfil de outros usuários.                                                                                             |
+| RF 9                  | Usuário | O sistema deve permitir que um usuário mantenha um match (Duozada) com outro usuário.                                                                                                    |
+| RF 10                 | Usuário | O sistema deve permitir que um usuário mantenha um chat depois de ocorrer um match (Duozada) com outro usuário.                                                                          |
+| RF 11                 | Usuário | O sistema deve permitir que um usuário mantenha uma mensagem dentro do chat                                                                                                              |
 
 #### Regras de negócio
 

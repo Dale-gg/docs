@@ -38,19 +38,19 @@
 
 #### Requisitos funcionais
 
-| Requisitos funcionais | Descrição                                                                                                                                                                                |
-| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| RF 1                  | O sistema deve permitir que um usuário pesquise por Invocadores dentro da aplicação.                                                                                                     |
-| RF 2                  | O sistema deve permitir a visualização do histórico de partidas assim como todas as informações de cada uma.                                                                             |
-| RF 3                  | O sistema deve permitir a visualização do histórico de um jogador em relação as partidas jogadas: total de partidas, total vitórias, total derrotas, etc.                                |
-| RF 4                  | O sistema deve permitir a visualização do histórico de um jogador em relação aos campeões jogados: campeão mais jogado, campeão menos jogado, campeão com melhor índice de vitória, etc. |
+| Requisitos funcionais |   Atores           | Descrição                                                                                                                                                                                         |
+| --------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| RF 1                  | Usuário, Invocador | O sistema deve permitir que um usuário pesquise por Invocadores dentro da aplicação.                                                                                                              |
+| RF 2                  | Usuário, Invocador | O sistema deve permitir a visualização do histórico de partidas assim como todas as informações de cada uma.                                                                                      |
+| RF 3                  | Usuário, Invocador | O sistema deve permitir a visualização do histórico de um jogador em relação as partidas jogadas: total de partidas, total vitórias, total derrotas.                                              |
+| RF 4                  | Usuário, Invocador | O sistema deve permitir a visualização do histórico de um jogador em relação aos campeões jogados: campeão mais jogado, campeão menos jogado, campeão com melhor índice de vitória.               |
 
 #### Regras de negócio
 
 | Regras de Negócio | Descrição                                                                                                                                                         |
 | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | RN 1              | O usuário podera fazer requisições a API da Riot sem estar autenticado.                                                                                           |
-| RN 2              | O usuário deve fazer as requisições a API da Riot pelo nome de algum Invocador e região apenas.                                                                            |
+| RN 2              | O usuário deve fazer as requisições a API da Riot pelo nome de algum Invocador e região apenas.                                                                   |
 | RN 3              | O usuário podera atualizar o perfil de algum Invocador, para refazer a requisição a API da Riot.                                                                  |
 
 #### Requisitos não funcionais tecnologicos
