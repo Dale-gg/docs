@@ -40,18 +40,18 @@
 
 | Requisitos funcionais |   Atores           | Descrição                                                                                                                                                                                         |
 | --------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| RF 1                  | Usuário, Invocador | O sistema deve permitir que um usuário pesquise por Invocadores dentro da aplicação.                                                                                                              |
-| RF 2                  | Usuário, Invocador | O sistema deve permitir a visualização do histórico de partidas assim como todas as informações de cada uma.                                                                                      |
-| RF 3                  | Usuário, Invocador | O sistema deve permitir a visualização do histórico de um jogador em relação as partidas jogadas: total de partidas, total vitórias, total derrotas.                                              |
-| RF 4                  | Usuário, Invocador | O sistema deve permitir a visualização do histórico de um jogador em relação aos campeões jogados: campeão mais jogado, campeão menos jogado, campeão com melhor índice de vitória.               |
+| RF 13                 | Usuário, Invocador | O sistema deve permitir que um usuário pesquise por Invocadores dentro da aplicação.                                                                                                              |
+| RF 14                 | Usuário, Invocador | O sistema deve permitir a visualização do histórico de partidas assim como todas as informações de cada uma.                                                                                      |
+| RF 15                 | Usuário, Invocador | O sistema deve permitir a visualização do histórico de um jogador em relação as partidas jogadas: total de partidas, total vitórias, total derrotas.                                              |
+| RF 16                 | Usuário, Invocador | O sistema deve permitir a visualização do histórico de um jogador em relação aos campeões jogados: campeão mais jogado, campeão menos jogado, campeão com melhor índice de vitória.               |
 
 #### Regras de negócio
 
-| Regras de Negócio | Descrição                                                                                                                                                         |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| RN 1              | O usuário podera fazer requisições a API da Riot sem estar autenticado.                                                                                           |
-| RN 2              | O usuário deve fazer as requisições a API da Riot pelo nome de algum Invocador e região apenas.                                                                   |
-| RN 3              | O usuário podera atualizar o perfil de algum Invocador, para refazer a requisição a API da Riot.                                                                  |
+| Regras de Negócio | RF   | Descrição                                                                                                                                                         |
+| ----------------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| RN 7              | RF 13, 14, 15, 16 | O usuário não podera fazer requisições a API da Riot se não estiver autenticado.                                                                     |
+| RN 8              | RF 13 | O usuário deve fazer as requisições a API da Riot pelo nome de algum Invocador e região apenas.                                                                   |
+| RN 9              | RF 13, 14, 15, 16 | O usuário podera atualizar o perfil de algum Invocador, para refazer a requisição a API da Riot.                                                                  |
 
 #### Requisitos não funcionais tecnologicos
 
