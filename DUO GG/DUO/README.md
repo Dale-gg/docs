@@ -68,14 +68,11 @@
 
 | Requisitos funcionais não tecnologicos | Descrição                                                                                                         |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| RNFT 1                                 | Um script será criado para realizar um pré cadastro dos Campeões e Lanes na aplicação.                             |
-| RNFT 2                                 | O sistema deve fazer uso da API da Riot Games para buscar as informações dos Invocadores.                         |
-| RNFT 3                                 | O banco de dados a ser utilizado terá o padrão objeto-relacional.                                                 |
-| RNFT 4                                 | A aplicação irá usar o architectural pattern MVC.                                                                 |
-| RNFT 5                               | O chat de texto pós match será implementado usando socket.io.                                                     |
-| RNFT 6                              | O sistema vai usar a lib ZedJS para fazer request a API da Riot Games |
-| RNFT 7                             | O sistema vai usar a lib dedSec para padronizar respostas para o client |
-| RNFT 8                           | O sistema vai usar o pattern Observable para lidar com o cadastro de Summoners
+| RNFT 1                                 | O banco de dados a ser utilizado terá o padrão objeto-relacional.                                                 |
+| RNFT 2                                 | A aplicação irá usar o architectural pattern REST.                                                                |
+| RNFT 3                                 | O chat de texto pós match (Duozada) será implementado usando socket.io.                                           |
+| RNFT 4                                 | O sistema vai usar a lib dedSec para padronizar respostas para o Client (React)                                   |
+| RNFT 5                                 | O sistema vai usar o Docker para fazer a conteinerização de todos os serviços                                     |
 
 ## 📊 Diagramas
 
