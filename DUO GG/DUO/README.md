@@ -44,30 +44,25 @@
 | RF 2                  | Usuário | O sistema deve permitir que um usuário mantido faça o login na plataforma.                                                                                                               |
 | RF 3                  | Usuário | O sistema deve permitir que um usuário recupere sua senha.                                                                                                                               |
 | RF 4                  | Usuário | O sistema deve permitir que um usuário possa fazer manutenções na sua conta.                                                                                                             |
-| RF 5                  | Usuário | O sistema deve permitir que um usuário mantenha suas melhores jogadas em seu perfil .                                                                                                    |
+| RF 5                  | Usuário | O sistema deve permitir que um usuário mantenha suas melhores jogadas em seu perfil.                                                                                                     |
 | RF 6                  | Usuário | O sistema deve permitir que um usuário possa encontrar e detalhar o perfil de outros usuários.                                                                                           |
 | RF 7                  | Usuário | O sistema deve permitir que um usuário possa manter um Like no perfil de outros usuários.                                                                                                |
 | RF 8                  | Usuário | O sistema deve permitir que um usuário possa manter um Dislike no perfil de outros usuários.                                                                                             |
 | RF 9                  | Usuário | O sistema deve permitir que um usuário mantenha um match (Duozada) com outro usuário.                                                                                                    |
 | RF 10                 | Usuário | O sistema deve permitir que um usuário mantenha um chat depois de ocorrer um match (Duozada) com outro usuário.                                                                          |
-| RF 11                 | Usuário | O sistema deve permitir que um usuário mantenha uma mensagem dentro do chat                                                                                                              |
+| RF 11                 | Usuário | O sistema deve permitir que um usuário mantenha uma mensagem dentro do chat.                                                                                                             |
+| RF 12                 | Usuário | O sistema deve permitir que um usuário desative a sua conta.                                                                                                                             |
 
 #### Regras de negócio
 
-| Regras de Negócio | Descrição                                                                                                                                                         |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| RN 1              | O usuário deverá fazer um primeiro cadastro fornecendo informações básicas, e algumas informações do jogo como, 3 CAMPEÕES que mais joga e 2 ROTAS que mais joga. |
-| RN 2              | O usuário só podera fazer edições no seu perfil caso esteja autenticado.                                                                                          |
-| RN 3              | O usuário podera recuperar sua senha e confirmar sua conta via token no email.                                                                                    |
-| RN 4              | O usuário podera fazer requisições a API da Riot sem estar autenticado.                                                                                           |
-| RN 5              | O usuário deve fazer as requisições a API da Riot pelo nome de algum Invocador apenas.                                                                            |
-| RN 6              | O usuário podera atualizar o perfil de algum Invocador, para refazer a requisição a API da Riot.                                                                  |
-| RN 7              | O usuário deverá estar logado na aplicação para utilizar os recursos do Duozada.                                                                                  |
-| RN 8              | O sistema deve fornecer para o usuário a opção de cadastrar suas melhores Jogadas quando acessar o Duozada, ou pular a opção.                                     |
-| RN 9              | O usuário podera listar e detalhar o perfil de outros jogadores na plataforma, assim como suas Jogadas.                                                           |
-| RN 10             | O usuário podera dar um Like no perfil de outros jogadores, caso o outro jogador tambem de um like no perfil do mesmo, ira ocorrer um Match.                      |
-| RN 11             | Apenas após um Match, os usuários teram a opção de conversarem via Chat dentro da aplicação.                                                                      |
-| RN 12             | Um User que estiver com seu status setado como false, não poderá acessar a aplicação                                                                              |
+| Regras de Negócio | RF    | Descrição                                                                                                                                                         |
+| ----------------- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| RN 1              | RF 1  | O usuário deverá fazer um primeiro cadastro fornecendo informações básicas, e algumas informações do jogo como, 3 CAMPEÕES que mais joga e 2 ROTAS que mais joga. |
+| RN 2              | RF 4  | O usuário só podera fazer edições no seu perfil caso esteja autenticado.                                                                                          |
+| RN 3              | RF 5, 6, 7, 8, 9, 10, 11  | O usuário deverá estar logado na aplicação para utilizar os recursos do Duozada.                                                              |
+| RN 4              | RF 1  | O usuário não podera cadastrar uma conta com algum email que já tenha sido usado na aplicação                                                                     |
+| RN 5              | RF 9  | O usuário só irá conseguir o match (Duozada) com outro usuário, quando os dois tiverem dado Like no perfil um do outro                                            |
+| RN 6              | RF 12 | O usuário que tiver o seu status setado como false, não poderá acessar a aplicação                                                                                |
 
 #### Requisitos não funcionais tecnologicos
 
